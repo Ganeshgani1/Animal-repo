@@ -99,10 +99,7 @@ public class AnimalController {
 //		return service.deleteAnimal(id);
 //	}
 //
-//	@DeleteMapping("/deleteMultiple/{animals}")
-//	public String deleteMultipleAnimals(@RequestBody List<Animal> animals) {
-//		return service.deleteMultipleAnimal(animals);
-//	}
+
 //
 //	@PutMapping("/updateMultipleAnimals")
 //	public List<Animal> updateMultipleAnimals(@RequestBody List<Animal> animals) {
